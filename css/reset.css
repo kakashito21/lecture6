@@ -69,6 +69,18 @@ header{
 	margin-bottom: 42px;
 	
 }
+header a{
+	display: inline-block;
+	font-family: 'Roboto';
+	font-style: normal;
+	font-weight: 700;
+	font-size: 12px;
+	line-height: 13px;
+	margin-right: 35px;
+	
+
+	color: #000000;
+}
 header ul{
 	display: inline-block;
 	vertical-align: middle;
